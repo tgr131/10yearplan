@@ -1,0 +1,4601 @@
+﻿[
+    {
+        "route": "Abbeville",
+        "county": "Bridge Replacement over S-72 Wilson Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Abbeville",
+        "county": "S-218 Bridge Replacement over Branch of Penny Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Abbeville",
+        "county": "S-96 Bridge Replacement over Shanklin Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Abbeville",
+        "county": "S-113 Bridge Replacement over Chickasaw Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Abbeville",
+        "county": "S-32 Bridge Replacement over Gills Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Abbeville",
+        "county": "S-125 Bridge Replacement over Long Branch Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Abbeville",
+        "county": "S-159 over Dry Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Abbeville",
+        "county": "S-73 over Turkey Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Abbeville",
+        "county": "S-159 over Johns Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Abbeville",
+        "county": "S-159 over Long Cane Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Abbeville",
+        "county": "S-33 over Long Cane Creek",
+        "project name": "2022",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Abbeville",
+        "county": "S-184 Bridge Replacement over Grays Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Abbeville",
+        "county": "S-32 over Little River",
+        "project name": "2018",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Upstate"
+    },
+    {
+        "route": "Aiken",
+        "county": "US 1  from near S-1725 (Old Four Notch Rd.) to near S-109 (Chinquapin Church Rd.)",
+        "project name": "2019",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "US 1  from near S-109 (Chinquapin Church Rd.) to Aiken/Saluda County Line",
+        "project name": "2019",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "US 278  from near S-581 (Church Rd.) to near S-146 (Gray Mare Hollow Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "US 278  from near S-146 (Gray Mare Hollow Rd.) to near L-1208 (Cooks Pond Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "US 278  from near L-1208 (Cooks Pond Rd.) to Aiken/Barnwell County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "SC 302 from near SC 113 (Main St. N.) to Aiken/Lexington County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "SC 4 from near SC 394 (Salley Rd.) to Aiken/Orangeburg County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "US 1 from near L-1008 (Gun Range Rd.) to near S-1725 (Old Four Notch Rd.)",
+        "project name": "2018",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "I-20 Widening from near GA State Line to near SC 230 (Exit 1)",
+        "project name": "2019",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "I-20 EB & WB Bridges over S-980",
+        "project name": "2024",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "I-20 EB & WB Bridges over S-980",
+        "project name": "2024",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "I-20 WB Bridge over SC 19",
+        "project name": "2024",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "I-20 WB Bridge Over South Edisto River",
+        "project name": "2024",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "I-20 WB Bridge Replacement over Abandoned RR",
+        "project name": "2024",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "US 1 over Shaws Creek",
+        "project name": "2022",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "US 1 over Big Horse Creek",
+        "project name": "2022",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "S-153 over Shaws Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "S-145 over Trib To Horse Cr.",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "S-732 over Goodland Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "S-180 N/S RR Bridge Replacement",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "S-166 N/S RR Bridge Replacement",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "S-1304 Bridge Replacement over Shaw's Creek",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "S-733 over Unnamed Stream",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "S-1166 over Crum Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "S-22 Bridge Replacements (2) over South Fork Edisto River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "S-22 Bridge Replacements (2) over South Fork Edisto River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "S-25 over Mctier Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "S-31 NB/SB Norfolk Southern RR Bridge Replacements",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "S-31 NB/SB Norfolk Southern RR Bridge Replacements",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "SC 302 over Lake Florence",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "US 1 over South Edisto River",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Midlands"
+    },
+    {
+        "route": "Aiken",
+        "county": "SC 421 over Little Horse Creek",
+        "project name": "2020",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Midlands"
+    },
+    {
+        "route": "Allendale",
+        "county": "US 321 from Hampton/Allendale County Line to near US 278 (Allendale Hampton Hwy.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Allendale",
+        "county": "US 301 over Savannah River",
+        "project name": "2025",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Allendale",
+        "county": "SC 3 Bridge Replacement over Watchcaw Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Allendale",
+        "county": "SC 3 Bridge Replacement over King Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Allendale",
+        "county": "Act 98 - District 7 Package A",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Allendale",
+        "county": "S-53 over Log Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Anderson",
+        "county": "US 29 from S-904 (Snow Rd.) to I-85",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "US 29 over Devil Fork Creek",
+        "project name": "2021",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "US 76 EB over Broadway Creek",
+        "project name": "2023",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "S-370 Bridge Replacement over Little Beaverdam Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "S-23 over Lake Hartwell",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "S-244 Bridge Replacement over Rocky River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "S-1021 over Huntington Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "S-169 Bridge Replacement over Six and Twenty Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "S-671 over Corner Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "S-931 Bridge Replacement over Big Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "S-458 over Cherokee Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "S-1098 over 18 Mi Ck- Lake Hartwell",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "SC 412 over Tributary to Big Generostee Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "S-718 Bridge Replacement over Tributary to Watermelon Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "S-141 over Blue Ridge Rr",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Anderson",
+        "county": "S-75 at US 29",
+        "project name": "2021",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Upstate"
+    },
+    {
+        "route": "Bamberg",
+        "county": "US 301 over S. Edisto River",
+        "project name": "2020",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Bamberg",
+        "county": "S-125 over Grapevine Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Bamberg",
+        "county": "S-77 over Lemon Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Bamberg",
+        "county": "S-385 over Smith Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Bamberg",
+        "county": "S-439 (Bobcat Landing Road) Bridge Replacement over Canal to South Edisto River",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Bamberg",
+        "county": "SC 70 over Little Salkehatchie River",
+        "project name": "2018",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Barnwell",
+        "county": "US 278  from Aiken/Barnwell County Line to near SC 39 (Highway 39)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Barnwell",
+        "county": "S-164 over Rosemary Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Barnwell",
+        "county": "S-189 over Whaley Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Beaufort",
+        "county": "US 278  from near Fording Rd. to near Eagles Pointe Dr.",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Beaufort",
+        "county": "US 278 Corridor Improvements",
+        "project name": "2024",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Beaufort",
+        "county": "US 21 over Harbor River",
+        "project name": "2017",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Beaufort",
+        "county": "S-79 over Jarvis Creek",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Berkeley",
+        "county": "US 17 ALT from near SC 402 (Highway 402) to near L-665 (Coggeshall Rd.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Berkeley",
+        "county": "SC 6 from near S-59 (County Line Rd.) to near L-2901 (Mikey Rd.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Berkeley",
+        "county": "I-26 from near SC 27 (Exit 187) to near Jedburg Road (Exit 194)",
+        "project name": "2021",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Berkeley",
+        "county": "I-26 from near Jedburg Road (Exit 194) to near Nexton Parkway (Exit 197)",
+        "project name": "2018",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Berkeley",
+        "county": "Old Mt. Holly Road ( S-45) Bridge Replacement over Unnamed Stream.",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Berkeley",
+        "county": "US 176 over Dean Swamp",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Berkeley",
+        "county": "S-791 over N. Mulberry Creek",
+        "project name": "2018",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Berkeley",
+        "county": "SC 6 from near L-2901 (Mikey Rd.) to near S-16 (Cooper Store Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Berkeley",
+        "county": "SC 6 from near S-16 (Cooper Store Rd.) to near S-603 (West End Dr.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Berkeley",
+        "county": "US 17 ALT from near L-665 (Coggeshall Rd.) to near L-4721 (neils Pl.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Berkeley",
+        "county": "US 17 ALT from near L-4721 (neils Pl.) to Berkeley/Williamsburg County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Berkeley Charleston",
+        "county": "I-526 from near Rivers Avenue (Exit 18) to near US 17 (Exit 30)",
+        "project name": "2024",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Calhoun",
+        "county": "SC 6 from near SC 33 (Cameron Rd.) to Calhoun/Orangeburg County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Calhoun",
+        "county": "US 601 from near SC 267 (McCords Ferry Rd.) to Calhoun/Richland County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Calhoun",
+        "county": "S-158 (Community Club Rd) Bridge over Hungerpiller Pond (DR-4241)",
+        "project name": "2018",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "US 17 from near S-1335 (Tibwin Rd.) to Charleston/Georgetown County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "SC 165 from US 17 (Savannah Hwy.) to Charleston/Dorchester County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "S-20 from near S-2068 (Kitford Rd.) to near L-4696 (Kiawah Island Pkwy.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "US 17 from near S-1076 (Porcher School Rd.) to near S-1335 (Tibwin Rd.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "US 17 from near S-1810 (Theodore Rd.) to near S-1076 (Porcher School Rd.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "SC 61 from Dorchester/Charleston County Line to L-1983 (Magnolia Plantation Rd.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "I-526 from near Rivers Avenue (Exit 18) to near Paul Cantrell Road (Exit 11)",
+        "project name": "2022",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "I-26 from near I-526 (Exit 212) to near Port Access Road (Exit 217)",
+        "project name": "2026",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "US 17 over Edisto River (2)",
+        "project name": "2024",
+        "construction year": "Other (Adjacent Bridge)",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "S. Rhett Ave. (S-60) Bridge Replacement over Noisette Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "Old Pond Rd. (S-1632) Bridge Replacement over Simons Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "SC 165 Bridge Replacement over Tidal Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "Harts Bluff Road (S- 68) Bridge Replacement over Tidal Stream in  Charleston County",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "SC 165 Replace Br/Appros",
+        "project name": "2018",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "SC 165 Replace Br/Appros",
+        "project name": "2018",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Charleston",
+        "county": "SC 165 Replace Br/Appros",
+        "project name": "2018",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Cherokee",
+        "county": "SC 5 from near SC 55 (Clover Hwy.) to Cherokee/York County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Cherokee",
+        "county": "US 29 from Spartanburg/Cherokee County Line to near S-307 (Morgan Dr.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Cherokee",
+        "county": "I-85 - Widening from near SC 18 (Exit 96) to near NC State Line (Phase 3)",
+        "project name": "2018",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Upstate"
+    },
+    {
+        "route": "Cherokee",
+        "county": "US 29 over Southern Railroad",
+        "project name": "2021",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Cherokee",
+        "county": "US 29 at Southern RWY",
+        "project name": "2019",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Cherokee",
+        "county": "S-77 Bridge Replacement over Horse Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Cherokee",
+        "county": "S-71 over Branch Of Providence Cr",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Cherokee",
+        "county": "S-97 over GoForth Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Cherokee",
+        "county": "S-119 Bridge Replacement over Bear Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Cherokee",
+        "county": "S-59 over Swofford Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Cherokee",
+        "county": "S-304 Bridge Replacement over Blue Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Cherokee",
+        "county": "S-265 over Manning Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Cherokee",
+        "county": "S-793 over Providence Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Cherokee Spartanburg",
+        "county": "I-85 (Gossett Rd (S-57) to NC State Line) - Gossett Rd (S-57) to SC 18",
+        "project name": "2016",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Upstate"
+    },
+    {
+        "route": "Chester",
+        "county": "SC 97 from near S-44 (Peden Bridge Rd.) to near S-355 (Old Catholic Ch. Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Chester",
+        "county": "SC 97 from near S-355 (Old Catholic Ch. Rd.) to US 21 (Pendergrass Blvd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Chester",
+        "county": "US 21 from SC 97 (Francis Ave.) to SC 91 (Francis Ave.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Chester",
+        "county": "SC 97 from US 21 (Pendergrass Blvd.) to Chester/Lancaster County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Chester",
+        "county": "SC 215 from Fairfield/Chester County Line to near SC 72 (West End Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Chester",
+        "county": "SC 72 from near SC 97 (J.A. Cochran Byp.) to near SC 324 (Highway 324 E.)*",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Chester",
+        "county": "SC 72 Bridge Replacement Over South Fork Creek",
+        "project name": "2025",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Chester",
+        "county": "SC 72 Bridge Replacement over Bear Creek",
+        "project name": "2025",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Chester",
+        "county": "SC 901 over Rocky Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Chester",
+        "county": "S-58 over Little Rocky Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Chester",
+        "county": "S-144 over Little Rocky Branch",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Chester",
+        "county": "S-300 over Little Rocky Branch Bridge Replacements",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Chester",
+        "county": "S-300 over Little Rocky Branch Bridge Replacements",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Chesterfield",
+        "county": "US 1 over SCL Railroad",
+        "project name": "2019",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Chesterfield",
+        "county": "US 1 over Black Creek and Little Alligator Creek (Adjacent Culvert)",
+        "project name": "2019",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Chesterfield",
+        "county": "US 1 over Black Creek and Little Alligator Creek (Adjacent Culvert)",
+        "project name": "2019",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Chesterfield",
+        "county": "S-144 over Bear Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Chesterfield",
+        "county": "S-104 over Lynches River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Chesterfield",
+        "county": "S-105 over Hill Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Chesterfield",
+        "county": "S-43 over Fork Swamp Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Chesterfield",
+        "county": "S-63 over Wallace Prong Creek",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Chesterfield",
+        "county": "S-20 over Bear Creek (2)",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Chesterfield",
+        "county": "S-136 over Br Of Thompson Cr",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Chesterfield",
+        "county": "S-39 over Little Fork Creek",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Clarendon",
+        "county": "US 521 from Williamsburg/Clarendon County Line to near SC 261 (Kingstree Hwy.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Clarendon",
+        "county": "US 521 over Deep Creek",
+        "project name": "2018",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Clarendon",
+        "county": "S-56 over Tawcaw Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Clarendon",
+        "county": "S-194 over Newman Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Clarendon",
+        "county": "S-125 over Fellowship Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Clarendon",
+        "county": "US 301 over Black River Swamp Bridge 1- Design-Build Emergency Bridge Package 5 (DR-4241)",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Clarendon",
+        "county": "US 301 over Black River Swamp Bridge 2- Design-Build Emergency Bridge Package 5 (DR-4241)",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Clarendon",
+        "county": "US 301 over Black River Swamp Bridge 3- Design-Build Emergency Bridge Package 5 (DR-4241)",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Clarendon",
+        "county": "US 301 over Black River Swamp Bridge 4- Design-Build Emergency Bridge Package 5 (DR-4241)",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Clarendon",
+        "county": "S-26 Bridge Replacement over Big Branch (DR-4241)",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Clarendon",
+        "county": "S-49 Bridge Replacement over Tearcoat Branch (DR-4241)",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Clarendon",
+        "county": "US 301 over Pudding Swamp (No. 1 and No. 2)",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Clarendon",
+        "county": "US 301 over Pudding Swamp (No. 1 and No. 2)",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Colleton",
+        "county": "SC 63 from Hampton/Colleton County Line to near S-190 (Miracle Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "SC 63 from near S-190 (Miracle Rd.) to near S-293 (Campground Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "US 21 from near US 17 ALT (Hendersonville Hwy.) to near S-114 (Cane Branch Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "US 21 from near S-114 (Cane Branch Rd.) to near S-543 (Merriel Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "US 21 from near S-543 (Merriel Rd.) to near S-807 (Gar Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "US 21  from near S-807 (Gar Rd.) to near SC 61 (Augusta Hwy.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "SC 61 from near US 21 (Lowcountry Hwy.) to near S-134 (Powder Horn Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "SC 61 from near S-134 (Powder Horn Rd.) to near L-1192 (Arrowhead Ln.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "US 17 ALT from near SC 651 (Rehoboth Rd.) to Colleton/Dorchester County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "SC 61 from near L-1192 (Arrowhead Ln.) to Colleton/Dorchester County Line",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "SC 64 from near S-598 (Henry St.) to US 17 (Ace Basin Pkwy.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "SC 303 from near S-59 (Rivers St.) to US 17 (Ace Basin Pkwy.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "US 17 over Edisto River (2)",
+        "project name": "2024",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "Ritter Road (S-41) Bridge Replacement over Calfpen Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "Ritter Road (S-41) Bridge Replacement over Ivanhoe Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "Peirce Road (S-35) Bridge Replacement over Deed Creek in  Colleton County",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "Forks Rd. (S-158) Bridge Replacement over Deep Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "Stocks Creek Rd (S-161) Bridge Replacement over Trib to Chehaw River in  Colleton County",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "S-15-74 over Buckhead Creek in Colleton County",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "S-15-74 over Buckhead Creek in Colleton County",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "US 21 over Sandy Run Creek",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Colleton",
+        "county": "SC 641 over Willow Swamp",
+        "project name": "2018",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Darlington",
+        "county": "S-28 over Boggy Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Darlington",
+        "county": "S-115 over Trib To Black Cr",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Darlington",
+        "county": "S-49 over High Hill Creek",
+        "project name": "2018",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Darlington",
+        "county": "US 401 over Jefferies Creek Lake Swamp High Hill Creek",
+        "project name": "2018",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Darlington",
+        "county": "S-63 over Trib To Black Cr",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Darlington",
+        "county": "US 52 Bus over Swift Creek",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Darlington",
+        "county": "US 401 over Jefferies Creek Lake Swamp High Hill Creek",
+        "project name": "2018",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Darlington",
+        "county": "US 401 over Jefferies Creek Lake Swamp High Hill Creek",
+        "project name": "2018",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Dillon",
+        "county": "S-192 over Sweet Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Dillon",
+        "county": "S-42 over Trib To Little Pee Dee",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Dillon",
+        "county": "S-423 Bridge Replacement Over Reedy Creek",
+        "project name": "2021",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Dillon",
+        "county": "S-192 over Sweet Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Dillon",
+        "county": "S-693 over Trib To Ltl Pee Dee",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Dillon",
+        "county": "S-293 over Cypress Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Dillon",
+        "county": "S-45 (Lester Road) over the Little Pee Dee Swamp; 2 Bridge Replacements (DR-4286).",
+        "project name": "2018",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Dorchester",
+        "county": "SC 165 from Charleston/Dorchester County Line to near SC 61 (Ashley River Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Dorchester",
+        "county": "US 78 from Orangeburg/Dorchester County Line to near S-167 (Sugar Hill Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Dorchester",
+        "county": "US 78 from near S-167 (Sugar Hill Rd.) to near US 178 (E. Main St.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Dorchester",
+        "county": "US 78 from near US 178 (E. Main St.) to S-58 (Jedburg Rd.)*",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Dorchester",
+        "county": "US 17 ALT from Colleton/Dorchester County Line to near L-163 (Summers Dr.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Dorchester",
+        "county": "SC 61 from Colleton/Dorchester County Line to near S-163 (Summers Dr.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Dorchester",
+        "county": "SC 61 from near S-163 (Summers Dr.) to Dorchester/Charleston County Line",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Dorchester",
+        "county": "US 15 Bridge Replacement over Indian Field Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Dorchester",
+        "county": "Horseford Rd (S-56) Bridge Replacements over Four Hole Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Dorchester",
+        "county": "Horseford Rd (S-56) Bridge Replacements over Four Hole Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Dorchester",
+        "county": "Taylor Pond Rd (S-139) Bridge Replacement over Little Walnut Branch in  Dorchester County",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Edgefield",
+        "county": "US 25 from near SC 121 (Pine House Rd.) to near SC 283 (Plum Branch Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Edgefield",
+        "county": "US 25 from near SC 283 (Plum Branch Rd.) to near US 378 (Highway 378 E.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Edgefield",
+        "county": "US 25 from near US 378 (Highway 378 E.) to Edgefield/Greenwood County Line",
+        "project name": "2019",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Edgefield",
+        "county": "SC 121 from near S-124 (Sawyer Ave.) to Edgefield/Saluda County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Edgefield",
+        "county": "US 25 from near S-426 (Macedonia Rd.) to near SC 121 (Pine House Rd.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Edgefield",
+        "county": "S-75 over South Edisto River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Edgefield",
+        "county": "S-140 over Sleepy Creek Bridge Replacement",
+        "project name": "2021",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Edgefield",
+        "county": "S-40 over Log Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Edgefield",
+        "county": "S-62 over Little Stevens Cr",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Edgefield",
+        "county": "S-62 over Mountain Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Edgefield",
+        "county": "S-36 over Mountain Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Edgefield",
+        "county": "S-100 over Turkey Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Edgefield",
+        "county": "S-114 over Log Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Edgefield",
+        "county": "S-39 over Turkey Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Edgefield",
+        "county": "S-68 over Turkey Creek",
+        "project name": "2018",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Midlands"
+    },
+    {
+        "route": "Fairfield",
+        "county": "SC 215 from Richland/Fairfield County Line to near SC 213 (State Highway 213)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Fairfield",
+        "county": "SC 213 from near SC 215 (State Highway 215) to near SC 215 (State Highway 215)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Fairfield",
+        "county": "SC 215 from near SC 213 (State Highway 213) to near S-18 (Ashford Ferry Rd.",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Fairfield",
+        "county": "SC 215 from near S-18 (Ashford Ferry Rd. to near L-222 (Faulkner Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Fairfield",
+        "county": "SC 215 from near L-222 (Faulkner Rd.) to Fairfield/Chester County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Fairfield",
+        "county": "S-54 over Mills Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Fairfield",
+        "county": "S-43 (Bellfield Road) Bridge Replacement over Sawney's Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Fairfield",
+        "county": "S-32 Bridge Replacement over Big Wateree",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Fairfield",
+        "county": "S-99 over Rocky Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Fairfield",
+        "county": "S-214 over Little Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Fairfield",
+        "county": "S-258 over Thorntree Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Florence",
+        "county": "SC 51  from near US 378 (W. Myrtle Beach Hwy.) to near S-164 (Big Swamp Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Florence",
+        "county": "SC 51  from near S-164 (Big Swamp Rd.) to near S-551 (Willow Creek Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Florence",
+        "county": "SC 51  from near S-551 (Willow Creek Rd.) to near L-2975 (Carnell Dr.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Florence",
+        "county": "SC 41 from Williamsburg/Florence County Line to near SC 341 (E. Broadway St.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Florence",
+        "county": "S-57 over Barfield Mill Creek - Emergency Bridge Package 3 (DR-4241)",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Florence",
+        "county": "US 76 over Lynches River",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Florence",
+        "county": "S-12 Con over Jefferies Creek",
+        "project name": "2018",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Florence",
+        "county": "S-76 over Jefferies Creek",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "US 17 ALT from Williamsburg/Georgetown County Line to near S-296 (Ten Acre Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "US 17 ALT from near S-296 (Ten Acre Rd.) to near S-905 (Alma St.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "US 17 from Charleston/Georgetown County Line to near S-23 (Whitehall Ave.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "US 701 from near L-1080 (Messiah Dr.) to Georgetown/Horry County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "SC 41 from near US 17 ALT (Saints Delight Rd.) to Georgetown/Williamsburg County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "SC 41 from SC 41 BUS (S. Morgan Ave.) to US 521 (Highway 521 Bypass)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "US 521 from SC 41 (County Line Rd.) to US 521 BUS (W. Main St.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "SC 41 from US 521 BUS (W. Main St.) to Georgetown/Williamsburg County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "SC 261 from Williamsburg/Georgetown County Line to near SC 513 (Pleasant Hill Dr.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "US 17 from near S-832 (Marina Dr.) to near S-759 (Waterford Rd.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "US 701 from near SC 51 (Browns Ferry Rd.) to near L-1080 (Messiah Dr.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "US 17 ALT from near S-905 (Alma St.) to near S-20 (Gapway Rd.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "S-4 (Choppee Road) Bridge Replacement over Black River in Georgetown County",
+        "project name": "2021",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "S-45 (Tomahawk Street) Bridge Replacement over Ports Creek in Georgetown County",
+        "project name": "2021",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "S-36 over Gravel Gulley",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "US 17 Alt over Sampit River",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Georgetown",
+        "county": "US 701 over Six Mile Creek",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Greenville",
+        "county": "US 25 from near L-346 (Belvue School Rd.) to North Carolina State Line",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "SC 14 from near S-98 (Berry Mill Rd.) to US 176 (Howard Ave.)*",
+        "project name": "2018",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "I-85 @ I-385 (Design Build)",
+        "project name": "2014",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "US 25 NB over S-119 & North Saluda River",
+        "project name": "2023",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "US 25 NB over S-119 & North Saluda River",
+        "project name": "2023",
+        "construction year": "Other (Adjacent Bridge)",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-664 over Reedy River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-102 over Armstrong Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-80 over Reedy River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-154 over Little Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-125 over Saluda River Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-114 over Middle Tyger River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-318 Bridge Replacement over Lake Lanier",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-164 over Enoree River",
+        "project name": "2019",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-384 Bridge Replacement over Brushy Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-154 Bridge Replacement over Payne Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-93 (Willis Road) Bridge Replacement over Beaverdam Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-114 over South Tyger River",
+        "project name": "2016",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-263 over Trib To Saluda River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "SC 20 Bridge Deck Replacements",
+        "project name": "2018",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "SC 20 Bridge Deck Replacements",
+        "project name": "2018",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-920 overTrib To Mountain Ck",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville",
+        "county": "S-272 over Reedy River",
+        "project name": "2018",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville Spartanburg",
+        "county": "I-85 Widening from near SC 153 (Exit 40) to near SC 85 (Exit 69)",
+        "project name": "2021",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenville Spartanburg",
+        "county": "I-85 @ I-385 (Design Build)",
+        "project name": "2014",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenwood",
+        "county": "US 25 from Edgefield/Greenwood County Line to near L-470 (Williams Hilltop Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenwood",
+        "county": "US 25 from near L-470 (Williams Hilltop Rd.) to near US 178 (Highway 178 S.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenwood",
+        "county": "SC 34 from near SC 702 (Highway 702) to Greenwood/Newberry County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenwood",
+        "county": "US 25 from near S-160 (Keels Rd.) to near SC 252 (Highway 252)*",
+        "project name": "2018",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenwood",
+        "county": "S-27 over Ninety Six Creek Bridge Replacement",
+        "project name": "2021",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenwood",
+        "county": "S-102 over Ninety Six Creek Bridge Replacement",
+        "project name": "2021",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenwood",
+        "county": "S-95 over Camp Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenwood",
+        "county": "S-93 over Br Turkey Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenwood",
+        "county": "S-268 over Rocky Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenwood",
+        "county": "S-62 over Cuffeytown Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenwood",
+        "county": "S-285 over Rocky Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenwood",
+        "county": "S-101 over Wilson Creek",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Greenwood",
+        "county": "SC 34 over Wilson Creek",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Upstate"
+    },
+    {
+        "route": "Hampton",
+        "county": "SC 63 from near SC 363 (Charleston Hwy.) to Hampton/Colleton County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Hampton",
+        "county": "US 321 from Jasper/Hampton County Line to near L-173 (Sprayfield Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Hampton",
+        "county": "US 321 from near L-173 (Sprayfield Rd.) to near S-49 (Thomas Hamilton Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Hampton",
+        "county": "US 321 from near S-49 (Thomas Hamilton Rd.) to Hampton/Allendale County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Hampton",
+        "county": "S-17 over Broadwater Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Hampton",
+        "county": "Rock Spring Road (S-51) Bridge Replacement over Unnamed Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Hampton",
+        "county": "Henderson Road (S-140) Bridge Replacement over Tributary to Camp Branch.",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Horry",
+        "county": "SC 22  from near L-1769 (Hucks Rd.) to near SC 905 (Highway 905)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "SC 22  from near SC 905 (Highway 905) to near L-369 (Water Tower Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "SC 9 from near US 76 (Highway 76) to near S-142 (Bay View Dr.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "SC 9 from near S-142 (Bay View Dr.) to near S-66 (Highway 66)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "SC 9 from near L-2088 (Marlowe Cir.) to near L-3478 (Charter Dr.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "SC 90  from near S-1135 (Lees Landing Cir.) to near SC 22 (Highway 22)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "US 701 from Georgetown/Horry County Line to near L-435 (Copperhead Rd.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "SC 9 from near S-66 (Highway 66) to near L-2088 (Marlowe Cir.)",
+        "project name": "2018",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "SC 22 from near US 501 (E. Highway 501) to near L-1769 (Hucks Rd.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "SC 90 from near SC 22 (Highway 22) to near SC 31 Connector (Robert Edge Pkwy.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "S-669 over Maple Swamp Bridge Replacement",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "S-548 over McLean Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "S-107 over Brown Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "S-134 over Jenkins Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "S-142 over Huggins Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "S-569 over Smith Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "S-569 over Br Of Lousing Swp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "S-472 (Hwy 472) Bridge Replacement over Kingston Lake in Horry County",
+        "project name": "2021",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "S-15 over Withers Swash",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Horry",
+        "county": "S-97 over Palmetto Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Jasper",
+        "county": "US 17  from near S-383 (Toomerville Loop) to near L-205 (Okeetee Fire Tower Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Jasper",
+        "county": "US 17  from near L-205 (Okeetee Fire Tower Rd.) to near S-13 (Unamed Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Jasper",
+        "county": "US 17 from Georgia State Line to near S-383 (Toomerville Loop)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Jasper",
+        "county": "US 321 from near US 17 (Whyte Hardee Blvd.) to near S-34 (Okatie Hwy.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Jasper",
+        "county": "US 321 from near S-34 (Okatie Hwy.) to Jasper/Hampton County Line",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Jasper",
+        "county": "I-95 SB over Bagshaw Swamp",
+        "project name": "2022",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Jasper",
+        "county": "I-95 SB over SC 46",
+        "project name": "2022",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Jasper",
+        "county": "Smiths Crossing Rd (S-29) Bridge Replacement over Great Swamp in Jasper County",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Jasper",
+        "county": "SC 462 over Bees Creek",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Kershaw",
+        "county": "SC 97 from Lancaster/Kershaw County Line to near SC 522 (Stoneboro Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "SC 903 from Lancaster/Kershaw County Line to near L-265 (Lost Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "US 601 from Richland/Kershaw County Line to near SC 12 (Fort Jackson Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "US 521 over Big Pine Tree Creek",
+        "project name": "2021",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "I-20 EB & WB over Wateree Swamp Overflow (#2)",
+        "project name": "2023",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "I-20 EB & WB over Wateree Swamp Overflow (#2)",
+        "project name": "2023",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "US 1 at SCL Railroad (No. 1)",
+        "project name": "2020",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "US 521 over Old RR Bed",
+        "project name": "2019",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "US 1 at S.C.L. RR (No. 3)",
+        "project name": "2019",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "I-20 EB & WB over Wateree River",
+        "project name": "2023",
+        "construction year": "Other (Adjacent Bridge)",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "I-20 EB & WB over Wateree River",
+        "project name": "2023",
+        "construction year": "Other (Adjacent Bridge)",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "I-20 EB & WB over Wateree Swamp Overflow (#1)",
+        "project name": "2023",
+        "construction year": "Other (Adjacent Bridge)",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "I-20 EB & WB over Wateree Swamp Overflow (#1)",
+        "project name": "2023",
+        "construction year": "Other (Adjacent Bridge)",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "S-698 over Rocky Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "S-87 over Shirley Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "S-404 over Unnamed",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "S-700 over Unnamed Stream",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "S-505 over Sanders Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "S-120 over 25-Mile Creek",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "S-26 over Sanders Creek",
+        "project name": "2017",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Kershaw",
+        "county": "S-349 over 25-Mile Creek",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "SC 97 from Chester/Lancaster County Line to near L-1051 (Cunningham Quarters Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "SC 97 from near L-1051 (Cunningham Quarters Rd.) to Lancaster/Kershaw County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "SC 903 from near S-376 (Hilldale Dr.) to near S-97 (Josh Log Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "SC 903 from near S-97 (Josh Log Rd.) to Lancaster/Kershaw County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "SC 9 from near S-36 (Potter Rd.) to near US 601 (Highway 601 S.)*",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "US 521 from near Arrowood Ave. to near S-161 (Henry Harris Rd.)",
+        "project name": "2018",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "SC 9 over Gills Creek",
+        "project name": "2025",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "SC 9 over Wildcat Creek",
+        "project name": "2025",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "US 521 over Cane Creek",
+        "project name": "2019",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-51 over Big Otter Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-55 over Twelve Mile Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-285 over Br Of Cane Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-292 over Bear Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-28 over Unnamed",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-75 over Hanging Rock Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-195 over Camp Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-294 over Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-75 over Hanging Rock Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-97 Bridge Replacement over Trib. to Flat Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-764 (Three Cs Road) Bridge Replacement over Hanging Rock Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-770 over Hanging Rock Creek",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-285 over Cane Creek",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-284 over Norfolk Southern Rr",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-26 over Little Lynches Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-123 over Flat Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-47 Bridge Replacement over Baskins Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lancaster",
+        "county": "S-51 over Gills Creek",
+        "project name": "2020",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Midlands"
+    },
+    {
+        "route": "Laurens",
+        "county": "US 221 from near SC 39 (Highway 39) to near SC 127 (Bypass 127)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "US 76  from near US 25 (Highway 25) to near S-93 (Georgia Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "US 76  from near S-93 (Georgia Rd.) to near SC 252 (Highway 252)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "SC 56 from near I-26 to Laurens/Union County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "US 221 from near S-246 (Highway 246 S.) to near SC 39 (Highway 39)*",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "US 76 over Reedy River",
+        "project name": "2025",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "US 221 over Burnt Mill Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "SC 56 Bridge Replacement over Duncan Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "S-110 Bridge Replacement over North Lick Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "S-340 Bridge Replacement over Mountain Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "S-34 Bridge Replacement over Millers Fork Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "S-300 over Branch of Shell Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "S-267 over Granny Creek Bridge Replacement",
+        "project name": "2022",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "S-19 Bridge Replacement over Cane Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "S-38 Bridge Replacement over Beaverdam Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "S-399 over Beaver Dam Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "S-398 over Dirty Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "S-480 over Br Of Saluda River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Laurens",
+        "county": "S-107 Bridge Replacement over Reedy Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Lee",
+        "county": "US 15 from Sumter/Lee County Line to near SC 441 (Woodrow Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Lee",
+        "county": "S-228 over Black River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Lee",
+        "county": "S-311 over Stoney Run Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Lee",
+        "county": "S-53 over Canal No. 1",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Lee",
+        "county": "S-262 over Unnamed Stream",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Lee",
+        "county": "S-39 over Long Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Lee",
+        "county": "S-53 over Canal No. 2",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Lee",
+        "county": "S-313 over Beaver Dam Ck (1)",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Lee",
+        "county": "S-313 over Beaver Dam Ck (2)",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Lee",
+        "county": "S-52 over Cooper Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Lee",
+        "county": "S-234 over Stoney Run Creek",
+        "project name": "2017",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Lee",
+        "county": "S-36 over Unnamed",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Lee",
+        "county": "S-31 over Beaver Dam Creek",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Lee",
+        "county": "US 401 over Scape Ore Swamp",
+        "project name": "2018",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Lexington",
+        "county": "US 1  from Saluda/Lexington County Line to near S-86 (S. Bethlehem Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "US 178 from near L-573 (Fish Hatchery Rd.) to Lexington/Orangeburg County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "US 178 from near SC 245 (S. Lee St.) to near L-975 (Whiskey Rd.)",
+        "project name": "2018",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "SC 302 from Aiken/Lexington County Line to near S-627 (Pleasant View Dr.)*",
+        "project name": "2018",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "US 178 from near L-975 (Whiskey Rd.) to near L-573 (Fish Hatchery Rd.)",
+        "project name": "2018",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "I-20 (US 378 to Long Pond Road)",
+        "project name": "2016",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "US 378 over Twelve Mile Creek",
+        "project name": "2021",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "US 1 over I-20",
+        "project name": "2019",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "I-26 over Southern Railway and I-26 over US 1",
+        "project name": "2021",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "I-26 over Southern Railway and I-26 over US 1",
+        "project name": "2021",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "I-26 over SC 302",
+        "project name": "2021",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "US 21 over Congaree Creek",
+        "project name": "2021",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "US 378 over Horse & Hollow Creek",
+        "project name": "2017",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "US 378 over Horse & Hollow Creek",
+        "project name": "2017",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "S-1140 over Bear Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "S-647 over Second Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "I-26 (near MM 110 to near MM 115) (S-30 Bridge Jacking/Replacement) (EB/WB)",
+        "project name": "2016",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "I-26 (near MM 110 to near MM 115) (S-365 Bridge Jacking/Replacement) (EB/WB)",
+        "project name": "2016",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington",
+        "county": "S-1171 (Cherokee Trail) Bridge Replacement (DR-4241)",
+        "project name": "2017",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington Newberry  Richland",
+        "county": "I-26 widening from near SC 202 (Exit 85) to near US 176 (Exit 101)",
+        "project name": "2019",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Midlands"
+    },
+    {
+        "route": "Lexington Richland",
+        "county": "I-20/I-26/I-126 - Corridor Improvements",
+        "project name": "2019",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Midlands"
+    },
+    {
+        "route": "Marion",
+        "county": "S-87 Bridge Replacement Over Smith Swamp",
+        "project name": "2022",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Marion",
+        "county": "S-41 over Maiden Down Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Marion",
+        "county": "S-41 over Smith Swamp",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "McCormick",
+        "county": "S-34 over Rocky Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "McCormick",
+        "county": "S-52 over Rocky Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "McCormick",
+        "county": "S-42 over Cuffeytown Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "McCormick",
+        "county": "S-117 over Bold Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "McCormick",
+        "county": "S-38 over Lee Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "McCormick",
+        "county": "S-117 over Long Cane Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "McCormick",
+        "county": "SC 823 over Little River",
+        "project name": "2018",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Upstate"
+    },
+    {
+        "route": "Newberry",
+        "county": "SC 34 from Greenwood/Newberry County Line to near L-609 (Little River Baptist Church Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "SC 34 from near L-609 (Little River Baptist Church Rd.) to near SC 121 (SC 121)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "SC 121 from Saluda/Newberry County Line to near SC 34 (Main St.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "SC 72 Bridge over CSX Railroad",
+        "project name": "2025",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-415 over Scott Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-17 over Big Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-272 over Second Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-17 over Timothy Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-97 over Mud Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-272 over Tributary to Second Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-277 over Big Beaver Dam Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-106 over Trib To Scotts Ck",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-41 over Camping Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-571 over Swash Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-90 over CSX & Southern RR",
+        "project name": "2019",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-26 over Camping Creek",
+        "project name": "2018",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-58 over Bush River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-63 over Long Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-328 over Rocky Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-342 over Big Beaver Dam Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-244 over Branch Of Bush River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "S-642 over North Branch of Scotts Creek",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Newberry",
+        "county": "SC 34 over Norfolk Southern Railroad",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Midlands"
+    },
+    {
+        "route": "Oconee",
+        "county": "US 76  from North Carolina State Line to near S-90 (Unity church Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Oconee",
+        "county": "US 76  from near S-90 (Unity church Rd.) to near S-70 (S. Bibb St.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Oconee",
+        "county": "US 76  from near S-70 (S. Bibb St.) to near L-786 (Mauldin Mill Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Oconee",
+        "county": "SC 183 from near SC 130 (Rochester Hwy.) to Oconee/Pickens County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Oconee",
+        "county": "SC 24 from US 76 (E. Main St.) to near SC 243 (Highway 243)*",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Oconee",
+        "county": "S-129 over Oconee Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Oconee",
+        "county": "S-49 over Choestoea Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Oconee",
+        "county": "S-50 over Coneross Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Oconee",
+        "county": "S-200 over Stamp Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Oconee",
+        "county": "S-258 over Chauga  Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Oconee",
+        "county": "S-52 over Beaver Dam Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Oconee",
+        "county": "S-99 Bridge Replacement over Beaverdam Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Oconee",
+        "county": "Act 98 - District 3 Package A",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Oconee",
+        "county": "S-34 over Norfolk Southern Rr",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Oconee",
+        "county": "S-135 over Richland Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "SC 6 from Calhoun/Orangeburg County Line to near S-1522 (Knowles St.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "SC 6 from near S-1522 (Knowles St.) to near S-1133 (Tucker Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "US 78 from near US 21 (Freedom Rd.) to Orangeburg/Dorchester County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "US 178 from Lexington/Orangeburg County Line to near SC 394 (Salley Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "SC 4 from Aiken/Orangeburg County Line to near SC 3 BUS (Railroad Ave.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "SC 3 BUS from near SC 4 (Springfield Rd.) to near SC 4 (Neeses Hwy.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "SC 4 from near SC 3 BUS (Springfield Rd.) to near US 321 (Savannah Hwy.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "SC 4 from near US 321 (Savannah Hwy.) to near S-74 (Shillings Bridge Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "SC 4 from near S-74 (Shillings Bridge Rd.) to near S-686 (Cut Off Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "US 301  from near L-2059 (Laquinta Dr.) to near S-92 (Landsdowne Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "US 301 from near S-92 (Landsdowne Rd.) to near US 15 (Bass Dr.)",
+        "project name": "2018",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "SC 6 from near S-1133 (Tucker Rd.) to near S-59 (County Line Rd.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "US 301 over North Edisto River & Swamp",
+        "project name": "2020",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "US 301 NB over Snake Swamp",
+        "project name": "2021",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "US 301 SBL over Four Hole Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "US 301 over North Edisto River & Swamp",
+        "project name": "2020",
+        "construction year": "Other (Adjacent Bridge)",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "SC 4 over Goodland Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "SC 332 over Willow Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "S-756 over Whirlwind Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "S-162 over Willow Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "S-204 over Trib To Penn Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "S-50 over Middle Pen Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "S-197 over Cow Castle Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "S-397 over Bull Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Orangeburg",
+        "county": "US 176 over Dean Swamp",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Lowcountry"
+    },
+    {
+        "route": "Pickens",
+        "county": "SC 183 from Oconee/Pickens County Line to near L-632 (Stephens Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Pickens",
+        "county": "SC 183 from near L-632 (Stephens Rd.) to near L-585 (Allgood Farm Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Pickens",
+        "county": "S-98 over Trib To Rocky Bottom Ck",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Pickens",
+        "county": "S-277 over Twelve Mile Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Pickens",
+        "county": "S-98 over Trib To Rocky Bottom Ck",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Pickens",
+        "county": "S-250 over Doddies Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Pickens",
+        "county": "SC 133 over Crow Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Pickens",
+        "county": "S-355 over Trib To Machine Ck",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Pickens",
+        "county": "S-32 over Cedar Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Pickens",
+        "county": "S-267 over Twelve Mile Creek",
+        "project name": "2017",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Pickens",
+        "county": "S-140 over Shoal Creek Bridge Replacement",
+        "project name": "2020",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Pickens",
+        "county": "District 3 Bridge Replacements",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Pickens",
+        "county": "District 3 Bridge Replacements",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Richland",
+        "county": "SC 215 from near SC 269 (Hinnants Store Rd.) to Richland/Fairfield County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "US 601 from Calhoun/Richland County Line to near L-4563 (Garden Stuart Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "US 601 from near L-4563 (Garden Stuart Rd.) to near S-1687 (Old McGraw Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "US 601 from near S-1687 (Old McGraw Rd.) to Richland/Kershaw County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "US 76 from near SC 769 (Congaree Rd.) to near US 601 (McCord's Ferry Rd.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "US 76 from near US 601 (McCord's Ferry Rd.) to Richland/Sumter County Line",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "I-77 (I-20 to Killian Road (Exit 22))",
+        "project name": "2016",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "US 76 over US 601",
+        "project name": "2020",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "US 21 over Southern & SCL RR (Blossom St Bridge)",
+        "project name": "2023",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "SC 277 NB over I-77",
+        "project name": "2018",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "I-20/I-26/I-126 - Corridor Improvements",
+        "project name": "2019",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "I-126 Bridge Replacement over SCL Railroad",
+        "project name": "2022",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "US 601 Bridge Replacement over Colonels Creek",
+        "project name": "2020",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "US 176 Bridge Replacement over SCL Railroad",
+        "project name": "2022",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "US 1 over S.C.L. Railroad",
+        "project name": "2019",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-985 over Unnamed Stream",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-2021 over Sunview Lake",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-1335 (Pine Grove Road) Bridge Replacement over Cedar Creek in Richland County",
+        "project name": "2021",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-1436 over North Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-2375 over Smith Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-1388 (Frick Road) Bridge Replacement over Horse Creek in Richland County",
+        "project name": "2021",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-734/S-3017",
+        "project name": "2017",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-59 over First Br Of Cedar Cr",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-1307 over Toms Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-1571 over Myers Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-53 Roadway & Drainage Reconstruction (DR-4241)",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-1725 Bridge Replacement over Jackson Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-1575 over Carey Lake",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-1575 over Carey Lake",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-1581 over Forest Lake",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-1727 over Unnamed Stream",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-2354 over Jackson Creek",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "S-1322 over Toms Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Richland",
+        "county": "SC 555 over SCL Railroad",
+        "project name": "TBD",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "US 1  from Aiken/Saluda County Line to Saluda/Lexington County Line",
+        "project name": "2019",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "SC 121 from Edgefield/Saluda County Line to near S-12 (S. Jefferson St.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "SC 121 from near S-12 (S. Jefferson St.) to near US 178 (Batesburg Hwy.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "US 178 from near SC 121 (S. Main Hwy.) to near SC 121 (N. Jennings St.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "SC 121 from near US 178 (Greenwood Hwy.) to near S-358 (Hightower Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "SC 121 from near S-358 (Hightower Rd.) to Saluda/Newberry County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "US 378 Bridge over Little Saluda River",
+        "project name": "2025",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "S-65 over Penn Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "S-78 over Persimmon Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "S-211 over Richland Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "S-281 over Trib To Lake Murray",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "S-44 over Br To Lake Murray",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "S-31 over Persimmon Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "S-29 over Dry Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "S-148 over Trib To Dry Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "S-164 over Br Of Little Saluda Rv",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "S-37 over Rocky Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "S-79 over Shiloh Branch",
+        "project name": "2017",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Saluda",
+        "county": "S-44 over Br To Saluda River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "SC 56 from Union/Spartanburg County Line to near L-481 (Farmer Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "SC 56 from near L-481 (Farmer Rd.) to near L-498 (Zimmerman Lake Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "SC 56 from near L-498 (Zimmerman Lake Rd.) to near L-1263 (Wyatt Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "I-26 from near US 176 (Exit 15) to near SC 296 (Exit 22)",
+        "project name": "2023",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "I-85 (US 25 to SC 129) - SC 290 I/C Improvements (Diverging Diamond Interchange 2-Lane Exits)",
+        "project name": "2019",
+        "construction year": "Increase Interstate Capacity/Mobility",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "US 29 SB over North Tyger River",
+        "project name": "2020",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "SC 85 NB over Lawson Fork Creek",
+        "project name": "2020",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "I-85 (Gossett Rd (S-57) to NC State Line) - Gossett Rd (S-57) to SC 18",
+        "project name": "2016",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "SC 85 over Southern R.R. and S-995",
+        "project name": "2019",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "SC 85 over Southern R.R. and S-995",
+        "project name": "2019",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "S-59 over Pacolet River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "S-30 over Trib To Pacolet River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "S-30 over Richland Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "S-317 over Grey Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "S-75 over Middle Tyger River",
+        "project name": "2019",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "S-75 over Middle Tyger River",
+        "project name": "2019",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "S-234 Bridge Replacement over Tributary to the Enoree River",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "S-93 Bridge Replacement over Glenn Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Spartanburg",
+        "county": "S-1557 over Fairforest Creek",
+        "project name": "2018",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Upstate"
+    },
+    {
+        "route": "Sumter",
+        "county": "US 76 from Richland/Sumter County Line to near SC 441 (Patriot Pkwy.)",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "US 521 from near L-1025 (Brabham Dr.) to near SC 261 (Boykin Rd.)*",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "US 15 from S-53 (Jefferson Rd.) to Sumter/Lee County Line",
+        "project name": "Phase I TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "US 76 Bypass over US 76 Business",
+        "project name": "2022",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "US 76 Bypass over US 15",
+        "project name": "2022",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "US 76 WB over Wateree River",
+        "project name": "2022",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "US 76 Bypass over US 15",
+        "project name": "2022",
+        "construction year": "Other (Adjacent Bridge)",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "S-152 (Manning Ave.) over S.C.L.RR & Street",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "S-37 over Rafting Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "Bridge Replacement at S-43-466 over Turkey Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "Bridge Replacement at S-114 over Turkey Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "Bridge Replacement at S-43-55 over Shot Pouch Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "Replace the S-43-528 (Kolb Road) Bridge over Cane Savannah Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "Bridge Replacement at S-43-40 over Mush Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "S-81 over Mulberry Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "S-81 over Camp Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "S-263 over Rafting Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Sumter",
+        "county": "S-81 over Alligator Branch",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Union",
+        "county": "SC 56 from Laurens/Union County Line to Union/Spartanburg County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Upstate"
+    },
+    {
+        "route": "Union",
+        "county": "SC 72 Bridge Replacement Over Tyger River",
+        "project name": "2025",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Union",
+        "county": "S-439 over Br Buffalo Cr.",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Union",
+        "county": "S-87 Bridge Replacement over Padgetts Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Upstate"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "US 17 ALT from Berkeley/Williamsburg County Line to Williamsburg/Georgetown County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "SC 41 from Georgetown/Williamsburg County Line to SC 41 BUS (S. Morgan Ave.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "SC 41 from Georgetown/Williamsburg County Line to near SC 51 (Browns Ferry Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "SC 41 from near SC 51 (Browns Ferry Rd.) to near S-160 (Good Earth Dr.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "SC 41 from near S-160 (Good Earth Dr.) to Williamsburg/Florence County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "SC 261 from near S-569 (Sandridge Rd.) to near S-625 (Elm Tree Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "SC 261 from near S-625 (Elm Tree Rd.) to near S-160 (Cow Head Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "SC 261 from near S-160 (Cow Head Rd.) to Williamsburg/Georgetown County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "US 521 from near SC 41 (County Line Rd.) to near S-30 (Sims Reach Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "US 521 from near S-30 (Sims Reach Rd.) to near S-19 (Glad St.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "US 521 from near S-19 (Glad St.) to near S-746 (Sippio Rd.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "US 521 from near S-746 (Sippio Rd.) to Williamsburg/Clarendon County Line",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "S-338 (Inglenook Road) Bridge Replacement over Boggy Swamp Branch in Williamsburg County",
+        "project name": "2022",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "S-40 over Mill Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "S-381 (Pine Tree Road) Bridge Replacement over Soccess Swamp in Williamsburg County",
+        "project name": "2021",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "S-194 over Indian Town Swamp",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "Williamsburg",
+        "county": "S-74 over Hell Hole Branch",
+        "project name": "Complete",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Pee Dee"
+    },
+    {
+        "route": "York",
+        "county": "SC 5 from Cherokee/York County Line to near S-1257 (Kinglet Dr.)",
+        "project name": "TBD",
+        "construction year": "Improve Rural Road Safety",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "SC 72 over Stony Fork Creek",
+        "project name": "2020",
+        "construction year": "Eliminate Interstate/NHS Structurally Deficient Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-103 over Tools Fork Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-40 over Bullocks Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-166 over Stony Fork Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-560 over Stony Fork Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-1069 over Br. Manchester Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-170 over Mcclures Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-889 over Bullocks Creek Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-820 over Bullocks Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-889 Bridge Replacement over Bullocks Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-885 Bridge Replacement over Biggers Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-414 over Calabash Branch",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-884 over Br To Fishing Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-820 Bridge Replacement over Bullocks Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-181 Bridge Replacement over Little Allison Creek",
+        "project name": "TBD",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-50 over Manchester Creek",
+        "project name": "2019",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-655 over Fishing Creek",
+        "project name": "2017",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "Design Build Package E",
+        "project name": "2015",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "Design Build Package E",
+        "project name": "2015",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "Design Build Package E",
+        "project name": "2015",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "S-654 over Burgis Creek",
+        "project name": "2019",
+        "construction year": "Eliminate Closed & Load Restricted Bridges",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "US 21 Bus over Steel Creek (Fort Mill)",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Midlands"
+    },
+    {
+        "route": "York",
+        "county": "US 321 over Allison Creek",
+        "project name": "2019",
+        "construction year": "Other (FA Non-NHS SD)",
+        "category": "Midlands"
+    }
+]
